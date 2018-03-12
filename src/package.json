@@ -1,0 +1,28 @@
+{
+  "name": "zu-loading",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OrangeBao/zu-zu-loading.git"
+  },
+  "author": {
+    "name": "baoyinghai",
+    "email": "245382441@qq.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OrangeBao/zu-zu-loading.git/issues"
+  },
+  "main": "zu-loading.umd.js",
+  "module": "zu-loading.js",
+  "jsnext:main": "zu-loading.js",
+  "typings": "zu-loading.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
